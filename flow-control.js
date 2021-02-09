@@ -6,6 +6,7 @@ function basicTeenager (age) {
   } else {
     return 'You are a teenager!';
 }
+}
 
 function teenager(age) {
 
