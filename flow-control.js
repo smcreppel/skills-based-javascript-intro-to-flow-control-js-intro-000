@@ -1,4 +1,4 @@
-function basicTeenager (age) {
+function basicTeenager if (ageChecker 13-19) {
 
 }
 
