@@ -1,4 +1,4 @@
-function basicTeenager(age) {
+function basicTeenager if(age>19) {
 
 
 }
