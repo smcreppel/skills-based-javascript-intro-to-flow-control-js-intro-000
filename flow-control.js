@@ -1,4 +1,4 @@
-function basicTeenager if (ageChecker 13-19) {alert 
+function basicTeenager if (ageChecker 13-19) {alert ('You are a teenager!')
 
 }
 
